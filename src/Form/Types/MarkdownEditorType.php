@@ -48,6 +48,12 @@ class MarkdownEditorType extends AbstractType
         ]);
     }
 
+    
+    public function getName()
+    {
+        return 'simplemde';
+    }
+    
     /**
      * {@inheritdoc}
      */
