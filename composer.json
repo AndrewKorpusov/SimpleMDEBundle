@@ -1,5 +1,5 @@
 {
-    "name": "ns/simplemde-bundle",
+    "name": "andrewkorpusov/simplemde-bundle",
     "type": "symfony-bundle",
     "description": "This bundle provides the simplemde markdown editor",
     "minimum-stability": "stable",
